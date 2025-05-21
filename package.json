@@ -1,0 +1,16 @@
+{
+  "name": "react-hacker-text",
+  "version": "1.0.0",
+  "description": "React component for hacker-style animated text (glitch, typing, bg block)",
+  "main": "dist/HackerText.js",
+  "types": "dist/HackerText.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["react", "hacker", "text", "glitch", "typing", "animation"],
+  "author": "Tuo Nome",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.0.0"
+  }
+}
